@@ -1,5 +1,6 @@
+cmake
 streamlit
-face_recognition
+face-recognition
 opencv-python-headless
 numpy
 Pillow
